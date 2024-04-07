@@ -4,7 +4,7 @@
 
 Ensure you're positioned in the correct directory and have Minikube ready for action. Follow these steps meticulously:
 
-#### Step 1: Navigate to Your Assignment 3 Directory
+#### Step 1: Navigate to Assignment 3 Directory
 Open your terminal and execute the following commands: 
 
 ####Step 1: Go to Assignment3 Directory
