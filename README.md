@@ -1,8 +1,7 @@
 
 # Assignment 3
-### Getting Started
 
-Ensure you're positioned in the correct directory and have Minikube ready for action. Follow these steps meticulously:
+Ensure you're in the correct directory and have Minikube ready for action. Follow all steps: 
 
 ####Step 1: Navigate to Assignment 3 Directory
 Open your terminal and execute the following commands: 
@@ -18,8 +17,8 @@ minikube start
 minikube addons enable ingress
 ```
 
-#### Step 3: Deploy Service, 
-Use this to update, use as a 'save' button
+#### Step 3: Deploy Service, save files 
+Use this to update all yaml files, use as a 'save' button
 
 ```bash
 kubectl apply -f '*.yaml'
